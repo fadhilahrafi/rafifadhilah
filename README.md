@@ -48,17 +48,14 @@ Memiliki pemahaman mengenai SDLC, MySql, Database, Software Documentation dan ba
    - Sertifikasi Pelayanan Multimedia dari BNSP pada tahun 2020
 ---
 ### Connect with me:
-[![website](./img/github-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/github-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/github-light.svg)](https://github.com/fadhilahrafi#gh-light-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/fadhilahrafi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rafi-fadhilah-a88495299#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rafi-fadhilah-a88495299#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/email-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/email-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/kurapikannn#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/kurapikannn#gh-dark-mode-only)
 
 
 [webdev]: https://github.com/vincentwidyan/vincentwidyan
